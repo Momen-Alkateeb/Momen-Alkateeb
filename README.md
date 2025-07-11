@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🎓 I'm a **Computer Engineering Graduate** from Tafila Technical University  
+- 🎓 I'm a **Computer Engineering Graduate** 
 - 💻 Passionate about **Back-End Development** with **ASP.NET Core Web API & MVC**
 - 🔒 Build secure and scalable REST APIs using **EF Core**, **ADO.NET**, **JWT**, and **ASP.NET Identity**
 - 🧠 Strong in **C#**, **C++**, and optimizing **T-SQL** queries
