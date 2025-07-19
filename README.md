@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Back-End%20Developer;.NET%20Enthusiast;ASP.NET%20Core%20API%20%26%20MVC;Always%20Learning%20New%20Techs&center=true&width=500&height=45&color=58a6ff&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=.NET%20Developer;.NET%20Enthusiast;ASP.NET%20Core%20API%20%26%20MVC;Always%20Learning%20New%20Techs&center=true&width=500&height=45&color=58a6ff&vCenter=true&size=22">
   </a>
 </p>
 
@@ -45,7 +45,8 @@
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET CORE MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET CORE API](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
